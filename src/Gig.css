@@ -1,0 +1,23 @@
+#root {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .bandImage {
+    max-width: 25rem;
+  }
+
+  .bandName {
+    font-size: 3rem;
+  }
+
+  .location {
+    font-weight: 700;
+  }
+
+  /* .favourite {
+    max-width: 20rem
+  } */
+  
